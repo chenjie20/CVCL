@@ -11,7 +11,7 @@ from utils import *
 
 
 class MultiviewData(Dataset):
-    def __init__(self, db, device, path="../datasets/"):
+    def __init__(self, db, device, path="datasets/"):
         self.data_views = list()
 
         if db == "MSRCv1":
