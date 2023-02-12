@@ -1,11 +1,15 @@
-Here are four models in the experiments. Please unzip all rar files. All parameters of the proposed CVCL method in the four experiments will be loaded by setting the parameter 'load_model' to 'True'.
+Here are four models in the experiments. All parameters of the proposed CVCL method in the four experiments will be loaded by setting the parameter 'load_model' to 'True'.
 
 parser.add_argument('--load_model', default=True, help='Testing if True or training.')
 
 The links of the other models available are given as follows:
-https://www.jiechen.site/downloads/CVCL/models/CVCL_pytorch_model_COIL20.pth
-https://www.jiechen.site/downloads/CVCL/models/CVCL_pytorch_model_hand.pth
-https://www.jiechen.site/downloads/CVCL/models/CVCL_pytorch_model_scene.pth
+https://www.jiechen.site/downloads/CVCL/models/CVCL_pytorch_model_COIL20.rar
+https://www.jiechen.site/downloads/CVCL/models/CVCL_pytorch_model_hand.rar
+https://www.jiechen.site/downloads/CVCL/models/CVCL_pytorch_model_scene.rar
+
+Please unzip all rar files. Thank you.
+
+
 
 
 
