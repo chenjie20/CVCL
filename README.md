@@ -1,6 +1,6 @@
 # CVCL
 
-The manuscript titled "Deep Multiview Clustering by Contrasting Cluster Assignments" is under review. Please feel free to contact me if you have any prbolems. Thank you.
+The manuscript titled "Deep Multiview Clustering by Contrasting Cluster Assignments" is under review. Please feel free to contact me if you have any prbolem. Thank you.
 
 --Prerequisites
 
