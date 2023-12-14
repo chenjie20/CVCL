@@ -213,7 +213,7 @@ if __name__ == "__main__":
     # # dims_layers = np.array([[256, 512, 1024]])
     # # dims_layers = np.array([[256, 512], [256, 512, 1024], [256, 512, 1024, 2048]])
     # dims_layers = [[256, 512], [256, 512, 1024], [256, 512, 1024, 2048]]
-    # batch_sizes = np.array([69], dtype=np.int32)
+    # batch_sizes = np.array([20, 30, 50, 60], dtype=np.int32)
     # lambdas = np.array([0.005, 0.01, 0.05], dtype=np.float32)
     # betas = np.array([0.005, 0.01, 0.05], dtype=np.float32)
     # learning_rates = np.array([0.0001, 0.0005], dtype=np.float32)
