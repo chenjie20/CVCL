@@ -223,7 +223,7 @@ if __name__ == "__main__":
     #         dim_low_feature = dim_low_features[dl_idx]
     #         for sd_idx in range(seeds.shape[0]):
     #             seed = seeds[sd_idx]
-    #             for dim_idx in range(len(dims_layers)-1):
+    #             for dim_idx in range(len(dims_layers)):
     #                 dims = np.array(dims_layers[dim_idx])
     #                 for bs_idx in range(batch_sizes.shape[0]):
     #                     batch_size = int(batch_sizes[bs_idx])
